@@ -1,4 +1,4 @@
-# Creation of SPL token and setting up the Candy machine UI.
+# Solana Project - 2 Creation of SPL token and setting up the Candy machine UI.
 
 This guide will assist you in configuring the user interface (UI) for your Candy Machine, enabling users to create NFTs utilizing the SPL token you have established. The UI will employ the SPL token as the payment mechanism, and users will have the capability to create NFTs by linking their Phantom wallet.
 
