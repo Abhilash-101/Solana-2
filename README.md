@@ -31,8 +31,8 @@ Test the entire setup by transferring or minting your SPL token to one of your P
 
 ### By User Abhilash-101
 my candy machine details
- - `splTokenAccount`: ""
-   - `splToken`: ""
+ - `splTokenAccount`: "CmYjWgk18KvpBeRpRvxdiowdq5Eko14MBZEnDf6LFwes"
+   - `splToken`: "BRchm6kw2mQVFPsx9dtN8xfjpqMy7j9LhCs5jz3w9Tc9"
 ## Conclusion
 
-By following these steps, you'll have successfully set up a Candy Machine UI that allows users to mint NFTs using the SPL token you've created. Users can connect their Phantom wallets and use the SPL token as payment to mint NFTs from your Candy Machine. Remember to thoroughly test the setup before deploying it for public use.
+By adhering to these instructions, you will have effectively established a user interface for a Candy Machine that permits individuals to create NFTs utilizing the SPL token you've developed. Users can link their Phantom wallets and employ the SPL token as payment to generate NFTs from your Candy Machine. It is crucial to extensively examine the configuration prior to making it accessible for public utilization.
