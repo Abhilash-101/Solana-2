@@ -3,7 +3,7 @@
 This guide will assist you in configuring the user interface (UI) for your Candy Machine, enabling users to create NFTs utilizing the SPL token you have established. The UI will employ the SPL token as the payment mechanism, and users will have the capability to create NFTs by linking their Phantom wallet.
 
 ## Prerequisites
-1.  - A  Candy Machine with critical informations in its `config.json` file, including pricing, quantity, symbol, seller fee, SPL token account, SPL token, go-live date, and creator details.
+1. A  Candy Machine with critical informations in its `config.json` file, including pricing, quantity, symbol, seller fee, SPL token account, SPL token, go-live date, and creator details.
 2. A Phantom wallet to act as the minting wallet.
 
 ## Steps
